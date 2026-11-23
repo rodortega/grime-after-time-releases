@@ -82,7 +82,7 @@ A walk-around hangout between jobs:
 - Everyone wears a clay cleaning suit with a dark visor. Choose three colours (suit, trim, gloves and boots) from ten swatches, type your own nickname, and decorate the suit with **preset art**: ten patterns (stripes, hazard, checker, dots, camo, stars, zigzag, waves, grid) and an ink colour for each of the helmet, torso, arms and legs.
 
 ### The HUD
-- A small white card at the top left shows two bars: **time left** (a clock) and **how clean the house is** (a sparkle). The time bar turns red in the last minute.
+- A small beige card at the top left shows two bars: **time left** (a clock) and **how clean the house is** (a sparkle). The time bar turns red in the last minute.
 - **Hold Tab** (gamepad: Back / View) to open the card with the numbers and your crew list.
 - A **speech bubble under the crosshair** names what you are looking at ("Furniture: Dining Chair | Durability: 3/3"). The crosshair turns **yellow on furniture and red on trash**, also while you carry it.
 
