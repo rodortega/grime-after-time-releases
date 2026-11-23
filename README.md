@@ -63,7 +63,7 @@ This repository only holds playable builds. Download the latest zip from the [Re
 - **Grab** things with a stretchy clay rope, throw them, and bonk trash off your crew.
 - The chaos is part of the game: washer knockback, wet floors that make you slip, the hose tripping you, clay flops, banana peels, dragging a crewmate by the rope and even **binning them**.
 - At the end of the job the crew is lined up for the **owner's inspection**: one of ten mean owners walks every room, then slaps a random player if the house is below the pass mark, and hands over the cash.
-- A **front door** you hold for 5 seconds to finish the job: a clay ring fills on the door and the whole crew sees it. It swings open for the owner, with the street outside, and an invoice that blames players for broken items.
+- A **front door** you hold for 5 seconds to finish the job: a clay ring fills on the door and the whole crew sees it. It swings open for the owner, with a blinding white light outside, and an invoice that blames players for broken items.
 - A **job-complete screen** with your star rating, how clean the house is, the pay split into icon lines (base, time, broken, rare, modifiers, style) and a picture frame for each crew member with their helmet, name and award. Hold Tab for the long text (invoice, level, daily best, owner review).
 
 ### Co-op
