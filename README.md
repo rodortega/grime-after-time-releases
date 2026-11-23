@@ -2,7 +2,42 @@
 
 **Grime After Time** (working title) is a first-person, cooperative cleanup game for Windows PC. You are part of a cleaning crew that turns up after a wild party. Clean the mess, put the furniture back where it was, and get paid by an owner who is not in a good mood.
 
-This repository only holds playable builds. Download the latest zip from the [Releases](../../releases) page, unzip it, and run `GrimeAfterTime.exe`. Every release lists everything that changed since the one before it.
+This repository only holds playable builds. Download the latest zip from the [Releases](../../releases) page, unzip it, and run `GrimeAfterTime.exe`. The zip is password-protected and uses AES-256 encryption, so unzip it with [7-Zip](https://www.7-zip.org/) or WinRAR (Windows Explorer cannot open it). Whoever sent you the build has the password. Every release lists everything that changed since the one before it.
+
+## Screenshots
+
+![The main menu, over the HQ](screenshots/01-main-menu.jpg)
+*The main menu, over the HQ*
+
+![The HQ: van, contract board, toys and lockers](screenshots/02-hq.jpg)
+*The HQ: van, contract board, toys and lockers*
+
+![Lockers: pick your suit colours](screenshots/03-locker.jpg)
+*Lockers: pick your suit colours*
+
+![The crew shop](screenshots/04-crew-shop.jpg)
+*The crew shop*
+
+![Grabbing a chair with the clay rope](screenshots/05-grab-and-hud.jpg)
+*Grabbing a chair with the clay rope*
+
+![The vacuum and the power washer](screenshots/06-vacuum-and-washer.jpg)
+*The vacuum and the power washer*
+
+![A random party house, after the party](screenshots/07-party-house.jpg)
+*A random party house, after the party*
+
+![Bigger jobs: two-storey houses](screenshots/08-two-storey-house.jpg)
+*Bigger jobs: two-storey houses*
+
+![Rewind: the party through a drunk guest's eyes](screenshots/09-rewind-party.jpg)
+*Rewind: the party through a drunk guest's eyes*
+
+![The owner's inspection](screenshots/10-owner.jpg)
+*The owner's inspection*
+
+![Job complete](screenshots/11-job-complete.jpg)
+*Job complete*
 
 ## Features
 
