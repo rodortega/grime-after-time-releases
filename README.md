@@ -37,7 +37,7 @@ This repository only holds playable builds. Download the latest zip from the [Re
 *The owner's inspection*
 
 ![Job complete](screenshots/11-job-complete.jpg)
-*Job complete*
+*Job complete: stars and how clean, the pay, and the crew with their awards*
 
 ## Features
 
@@ -63,7 +63,8 @@ This repository only holds playable builds. Download the latest zip from the [Re
 - **Grab** things with a stretchy clay rope, throw them, and bonk trash off your crew.
 - The chaos is part of the game: washer knockback, wet floors that make you slip, the hose tripping you, clay flops, banana peels, dragging a crewmate by the rope and even **binning them**.
 - At the end of the job the crew is lined up for the **owner's inspection**: one of ten mean owners walks every room, then slaps a random player if the house is below the pass mark, and hands over the cash.
-- A **sliding front door** you hold open for the owner, and an invoice that blames players for broken items.
+- A **front door** you hold for 5 seconds to finish the job: a clay ring fills on the door and the whole crew sees it. It swings open for the owner, with the street outside, and an invoice that blames players for broken items.
+- A **job-complete screen** with your star rating, how clean the house is, the pay split into icon lines (base, time, broken, rare, modifiers, style) and a picture frame for each crew member with their helmet, name and award. Hold Tab for the long text (invoice, level, daily best, owner review).
 
 ### Co-op
 - Play **solo or with up to 4 players online**. One player hosts and shares a join code; there is no port forwarding.
@@ -79,7 +80,7 @@ A walk-around hangout between jobs:
 - **Lockers and a mirror** to change how you look.
 
 ### Your look
-- Everyone wears a clay cleaning suit with a dark visor. Choose three colours (suit, trim, gloves and boots) from ten swatches, type your own nickname, and decorate the suit with **preset art**: ten patterns (stripes, hazard, checker, dots, camo, stars, zigzag, waves, grid) and an ink colour for each of the helmet, torso, arms and legs.
+- Everyone wears a clay cleaning suit with a dark visor. Choose three colours (suit, trim, gloves and boots) from ten swatches, type your own nickname (up to 15 letters), and decorate the suit with **preset art**: ten patterns (stripes, hazard, checker, dots, camo, stars, zigzag, waves, grid) and an ink colour for each of the helmet, torso, arms and legs.
 
 ### The HUD
 - A small beige card at the top left shows two bars: **time left** (a clock) and **how clean the house is** (a sparkle). The time bar turns red in the last minute.
