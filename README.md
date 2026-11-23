@@ -53,5 +53,5 @@ A walk-around hangout between jobs:
 
 ## Playing
 - Windows 64-bit PC. Unzip first; do not run it from inside the zip.
-- To play with friends, one person picks Host, shares the join code, and the others pick Join.
+- Play solo with **Play solo**. To play with friends, one person picks **Host online (up to 4)** and shares the code; the others type it under **Join a crew** and press **Join**. Your saved game (levels, money, upgrades, trophies) is kept between sessions.
 - Found a bug or have an idea? Tell whoever sent you the build.
