@@ -18,8 +18,8 @@ This repository only holds playable builds. Download the latest zip from the [Re
 ![The crew shop](screenshots/04-crew-shop.jpg)
 *The crew shop*
 
-![Grabbing a chair with the clay rope](screenshots/05-grab-and-hud.jpg)
-*Grabbing a chair with the clay rope*
+![The HUD: time and clean bars, and the hint bubble](screenshots/05-grab-and-hud.jpg)
+*The HUD: time and clean bars at the top left, and the hint bubble under the crosshair*
 
 ![The vacuum and the power washer](screenshots/06-vacuum-and-washer.jpg)
 *The vacuum and the power washer*
