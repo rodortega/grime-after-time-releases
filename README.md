@@ -13,7 +13,7 @@ This repository only holds playable builds. Download the latest zip from the [Re
 *The HQ: van, contract board, toys and lockers*
 
 ![Lockers: pick your suit colours](screenshots/03-locker.jpg)
-*Lockers: pick your suit colours*
+*Lockers: pick your suit colours and suit art*
 
 ![The crew shop](screenshots/04-crew-shop.jpg)
 *The crew shop*
