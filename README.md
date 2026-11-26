@@ -39,6 +39,9 @@ This repository only holds playable builds. Download the latest zip from the [Re
 ![Job complete](screenshots/11-job-complete.jpg)
 *Job complete: stars and how clean, the pay, and the crew with their awards*
 
+![The super glue gun and its goo](screenshots/12-glue-gun.jpg)
+*The super glue gun: a bead of glittering goo on the carpet*
+
 ## Features
 
 > This list is kept complete: it describes everything the game can do as of the latest release.
@@ -46,6 +49,7 @@ This repository only holds playable builds. Download the latest zip from the [Re
 ### The job
 - Every round is a **different random party**: a new floor plan, kitchen corner, interior walls, furniture, stains, trash and guests, so no two jobs look the same.
 - **Clean up**: wash away stains, bin the trash, and carry furniture and ornaments back to where they stood before the party.
+- **Wall pieces to glue back**: every round some wall decoration (a painting, a poster, a clock and so on) has come off its wall and lies on the floor. It only counts as put back once it hangs on its wall again, and only the glue gun can put it there. Bigger houses have more of them.
 - Your **pay** depends on how clean the house is and how close each piece is to its original spot. Finish early for a bonus; the owner arrives at the 10-minute mark and takes a cut for the wait.
 - A **1 to 3 star rating** for each job (pass, 80%, 95% before the owner arrives), with your best stars and fastest pass kept for every level.
 - **Style bonuses** for trick shots into the bin, bin streaks and clutch saves of falling items, with on-screen call-outs.
@@ -59,7 +63,8 @@ This repository only holds playable builds. Download the latest zip from the [Re
 - Your crew can talk to you across time: **proximity voice chat** with a ghostly effect between the past and the present.
 
 ### Cleaning and chaos
-- Tools: a **power washer** with an 8 m hose, a vacuum, a leaf blower and the house bin (plus trash bags you can buy).
+- Tools: a **power washer** with an 8 m hose, a vacuum, a leaf blower, the **super glue gun** and the house bin (plus trash bags you can buy).
+- The **super glue gun** lies next to the washer on every level. It shoots a bead of glittering goo up to 30 m at anything: a wall, the floor, furniture, trash, even a crewmate. The first loose piece (or player) that touches a bead is stuck to whatever the bead sits on. Glue gets in the way but is not trash and is not scored. Only the power washer removes it (about 10 seconds per bead), and a player stuck in glue cannot wash themselves free. Glue more than 5 things together and the whole group is stuck for good until you wash a bead off. You start each job with 5 shots; the shop's Glue tank gives more. The goo flies out of the muzzle in a spray of sparks, lands flat, bounces and settles into a sphere.
 - **Grab** things with a stretchy clay rope, throw them, and bonk trash off your crew.
 - The chaos is part of the game: washer knockback, wet floors that make you slip, the hose tripping you, clay flops, banana peels, dragging a crewmate by the rope and even **binning them**.
 - At the end of the job the crew is lined up for the **owner's inspection**: one of ten mean owners walks every room, then slaps a random player if the house is below the pass mark, and hands over the cash.
@@ -73,9 +78,9 @@ This repository only holds playable builds. Download the latest zip from the [Re
 ### The HQ
 A walk-around hangout between jobs:
 - The **van** you all walk into to start a job, and a contract board with the job cards and modifiers.
-- **Crew shop**: crew-wide upgrades for the washer, sprint and carry strength, extra time and the trash bag, in three tiers each.
+- **Crew shop**: crew-wide upgrades in three tiers each: the power washer, sprint and carry strength, extra time, the trash bag, the rewind gadget, the vacuum, the leaf blower, another washer and the glue tank (more shots for the glue gun).
 - Boards for money, local records and achievements; a **trophy shelf**; **20 achievements** with crew ranks shown on your name tag; and the owners' reviews of your work.
-- Practice stations for the washer, placing furniture and binning trash.
+- Six **practice rooms** upstairs (the second floor now has a ceiling with lamps): the washer range, a furniture placing drill, a trash toss, and one room each for the **vacuum**, the **leaf blower** and the **glue gun**, with score boards and a reset post. The tools work there before you buy them.
 - Toys: a basketball hoop, a jukebox, a punch bag and a vending machine.
 - **Lockers and a mirror** to change how you look.
 
