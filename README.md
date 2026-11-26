@@ -19,7 +19,7 @@ This repository only holds playable builds. Download the latest zip from the [Re
 *The crew shop*
 
 ![The HUD: time and clean bars, and the hint bubble](screenshots/05-grab-and-hud.jpg)
-*The HUD: time and clean bars at the top left, and the hint bubble under the crosshair*
+*The HUD: time and clean bars at the top left (taken before the hint moved to a small card in the top right)*
 
 ![The vacuum and the power washer](screenshots/06-vacuum-and-washer.jpg)
 *The vacuum and the power washer*
@@ -63,8 +63,8 @@ This repository only holds playable builds. Download the latest zip from the [Re
 - Your crew can talk to you across time: **proximity voice chat** with a ghostly effect between the past and the present.
 
 ### Cleaning and chaos
-- Tools: a **power washer** with an 8 m hose, a vacuum, a leaf blower, the **super glue gun** and the house bin (plus trash bags you can buy).
-- The **super glue gun** lies next to the washer on every level. It shoots a bead of glittering goo up to 30 m at anything: a wall, the floor, furniture, trash, even a crewmate. The first loose piece (or player) that touches a bead is stuck to whatever the bead sits on. Glue gets in the way but is not trash and is not scored. Only the power washer removes it (about 10 seconds per bead), and a player stuck in glue cannot wash themselves free. Glue more than 5 things together and the whole group is stuck for good until you wash a bead off. You start each job with 5 shots; the shop's Glue tank gives more. The goo flies out of the muzzle in a spray of sparks, lands flat, bounces and settles into a sphere.
+- Tools: a **power washer** with an 8 m hose, a **vacuum** that sucks up any small loose thing (you can see the air rushing in; empty it into the bin, or dump it on the floor when full), a leaf blower, the **super glue gun** and the house bin (plus trash bags you can buy).
+- The **super glue gun** lies next to the washer on every level. It shoots a bead of glittering goo up to 30 m at anything: a wall, the floor, furniture, trash, even a crewmate. The first loose piece (or player) that touches a bead is stuck to whatever the bead sits on. A piece you are carrying sticks too: it leaves your hands and stays on the goo. Glue gets in the way but is not trash and is not scored. Only the power washer removes it (about 10 seconds per bead), and a player stuck in glue cannot wash themselves free. Glue more than 5 things together and the whole group is stuck for good until you wash a bead off. You start each job with 5 shots; the shop's Glue tank gives more. The goo flies out of the muzzle in a spray of sparks, lands flat, bounces and settles into a sphere.
 - **Grab** things with a stretchy clay rope, throw them, and bonk trash off your crew.
 - The chaos is part of the game: washer knockback, wet floors that make you slip, the hose tripping you, clay flops, banana peels, dragging a crewmate by the rope and even **binning them**.
 - At the end of the job the crew is lined up for the **owner's inspection**: one of ten mean owners walks every room, then slaps a random player if the house is below the pass mark, and hands over the cash.
@@ -90,7 +90,7 @@ A walk-around hangout between jobs:
 ### The HUD
 - A small beige card at the top left shows two bars: **time left** (a clock) and **how clean the house is** (a sparkle). The time bar turns red in the last minute.
 - **Hold Tab** (gamepad: Back / View) to open the card with the numbers and your crew list.
-- A **speech bubble under the crosshair** names what you are looking at ("Furniture: Dining Chair | Durability: 3/3"). The crosshair turns **yellow on furniture and red on trash**, also while you carry it.
+- A **small card in the top right corner** names what you are looking at ("Furniture: Dining Chair | Durability: 3/3"). The crosshair turns **yellow on furniture and red on trash**, also while you carry it.
 
 ### Sound and look
 - A handcrafted **clay look** for the characters and props, and a clay-style menu and HUD.
