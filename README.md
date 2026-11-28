@@ -95,6 +95,7 @@ A walk-around hangout between jobs:
 ### Sound and look
 - A handcrafted **clay look** for the characters and props, and a clay-style menu and HUD.
 - Sound effects, menu music, a different party track in each past, and lo-fi music while you clean. The settings screen has Music and Sound effects sliders.
+- A **Graphics** setting (Low, Medium, High) in the settings screen for slower PCs: Low and Medium draw shorter, cheaper shadows, and Low also renders at a slightly lower resolution with half-size textures. The first time the game starts it picks one from your graphics card's memory, and it remembers your choice.
 - Keyboard and mouse, or a gamepad.
 
 ## Playing
